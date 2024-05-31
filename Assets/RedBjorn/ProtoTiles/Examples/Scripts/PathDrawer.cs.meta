@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 71a8f003b824cfd4680b49177d48fd38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Scripts/PathDrawer.cs
+  uploadId: 641656

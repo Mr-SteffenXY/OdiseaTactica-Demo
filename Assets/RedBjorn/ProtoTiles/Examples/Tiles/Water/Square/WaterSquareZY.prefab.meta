@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 660f7965ded9de54b9b907e7db3feb99
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Tiles/Water/Square/WaterSquareZY.prefab
+  uploadId: 641656

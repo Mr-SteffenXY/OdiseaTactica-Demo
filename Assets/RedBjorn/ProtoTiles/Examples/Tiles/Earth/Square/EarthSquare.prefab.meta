@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cd36fa15214dd34da7fe2ee9e436ff0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Tiles/Earth/Square/EarthSquare.prefab
+  uploadId: 641656

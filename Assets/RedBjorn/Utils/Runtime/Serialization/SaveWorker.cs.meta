@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0470bf398a6bb8f41ac01fc27e89d5d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/Utils/Runtime/Serialization/SaveWorker.cs
+  uploadId: 641656

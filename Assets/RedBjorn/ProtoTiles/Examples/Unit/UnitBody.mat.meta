@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bbdb48d53bf44746b46307747b23dc0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Unit/UnitBody.mat
+  uploadId: 641656

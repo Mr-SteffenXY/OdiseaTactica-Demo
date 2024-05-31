@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e30b2aa423678ed419e52f84201e32fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Map/Scripts/Runtime/Presets/GridAxis.cs
+  uploadId: 641656

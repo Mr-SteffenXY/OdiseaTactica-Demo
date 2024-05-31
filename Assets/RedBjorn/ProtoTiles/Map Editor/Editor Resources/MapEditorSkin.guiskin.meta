@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4c5e60041087c44ca0506d9d0f740bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Map Editor/Editor Resources/MapEditorSkin.guiskin
+  uploadId: 641656

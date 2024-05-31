@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26b8128fd204a364ba257dfd66b090fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Tiles/Factory/Hex/Factory.mat
+  uploadId: 641656

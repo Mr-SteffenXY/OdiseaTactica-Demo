@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be77f2a61f486f543933fc2ef5d4862f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Map Editor/Editor Resources/Cursor2D.shader
+  uploadId: 641656

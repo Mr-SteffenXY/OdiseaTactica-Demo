@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b34227a2546d07a42abc972021113bcc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Map/Scripts/Runtime/Presets/HexPointy.cs
+  uploadId: 641656

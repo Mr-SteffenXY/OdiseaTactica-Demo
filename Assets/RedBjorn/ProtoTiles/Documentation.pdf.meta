@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9181d51da1426274ca1deba54f088a03
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Documentation.pdf
+  uploadId: 641656

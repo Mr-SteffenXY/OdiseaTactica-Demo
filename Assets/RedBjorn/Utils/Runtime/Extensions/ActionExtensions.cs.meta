@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 807a72e5211b6314886a20d9c502984a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/Utils/Runtime/Extensions/ActionExtensions.cs
+  uploadId: 641656

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82b4718720cdba74db7f4a2ebcd36705
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Levels/SquareXY/ExampleSquareSceneXY_MapSquare.asset
+  uploadId: 641656

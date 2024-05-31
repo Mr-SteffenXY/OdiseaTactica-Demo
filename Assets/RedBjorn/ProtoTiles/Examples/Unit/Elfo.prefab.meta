@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e847baf8c564fba488a2980f4e937c09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Unit/Unit.prefab
+  uploadId: 641656

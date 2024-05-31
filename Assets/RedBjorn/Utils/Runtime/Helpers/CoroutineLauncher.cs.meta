@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9f1c84714ec3bf488920e72df5e8a25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/Utils/Runtime/Helpers/CoroutineLauncher.cs
+  uploadId: 641656

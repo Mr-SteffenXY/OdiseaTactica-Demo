@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 526f476039ebee544874f76e9bc8b3ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12980
+  packageName: Speedball Player
+  packageVersion: draft
+  assetPath: Assets/Character/FreeCharacter/Textures/Body_Cube_01.cubemap
+  uploadId: 0

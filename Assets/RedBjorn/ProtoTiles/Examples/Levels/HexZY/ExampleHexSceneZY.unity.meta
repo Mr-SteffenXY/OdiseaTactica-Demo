@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf9220239c956e443a744b7610a7220e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Levels/HexZY/ExampleHexSceneZY.unity
+  uploadId: 641656

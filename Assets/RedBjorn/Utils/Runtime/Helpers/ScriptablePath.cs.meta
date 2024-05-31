@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 00d3bdba28e119c4babb12bd6e345c1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/Utils/Runtime/Helpers/ScriptablePath.cs
+  uploadId: 641656

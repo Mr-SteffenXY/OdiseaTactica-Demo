@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a1c55ae647f6b94285fe014ae3806cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148233
+  packageName: Stylized Planet-Pack Full
+  packageVersion: 1.0
+  assetPath: Assets/#OnePotatoKingdom_FULL/Bonus_Assets/Rotation_Script/Rotatator.cs
+  uploadId: 316261

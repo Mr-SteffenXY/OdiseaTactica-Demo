@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1739f073c792d1f4c9c32fb69964b396
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Levels/Square/ExampleSquareScene.unity
+  uploadId: 641656

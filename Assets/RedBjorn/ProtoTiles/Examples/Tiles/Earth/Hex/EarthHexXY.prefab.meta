@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f09410557b289ed47ac4b79146338c4f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Tiles/Earth/Hex/EarthHexXY.prefab
+  uploadId: 641656

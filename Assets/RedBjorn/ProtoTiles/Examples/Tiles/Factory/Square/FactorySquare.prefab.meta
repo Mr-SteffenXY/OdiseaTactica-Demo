@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ccfb5ac48af4f2499a682d1b6243c8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Tiles/Factory/Square/FactorySquare.prefab
+  uploadId: 641656

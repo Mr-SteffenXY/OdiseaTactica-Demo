@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48097669abeecd047ac9c7d0c9302e74
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Map/Rules/CellBorder.mat
+  uploadId: 641656

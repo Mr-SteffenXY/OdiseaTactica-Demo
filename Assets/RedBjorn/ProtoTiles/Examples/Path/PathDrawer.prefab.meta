@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4eac60a74696c8142b18f93d4453e87d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Path/PathDrawer.prefab
+  uploadId: 641656

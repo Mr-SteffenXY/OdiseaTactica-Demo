@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ed4da4eac1656341a3e2fb4e523ae9d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Levels/SquareZY/ExampleSquareSceneZY.unity
+  uploadId: 641656

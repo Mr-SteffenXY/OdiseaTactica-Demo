@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe2319e9d6e840f409af77b3e7a85259
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Area/AreaOutline.prefab
+  uploadId: 641656

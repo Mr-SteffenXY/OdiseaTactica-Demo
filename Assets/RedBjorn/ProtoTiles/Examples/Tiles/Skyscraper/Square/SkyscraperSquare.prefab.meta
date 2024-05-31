@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b3af8ae113985544b2dd56b6df8f784
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Tiles/Skyscraper/Square/SkyscraperSquare.prefab
+  uploadId: 641656

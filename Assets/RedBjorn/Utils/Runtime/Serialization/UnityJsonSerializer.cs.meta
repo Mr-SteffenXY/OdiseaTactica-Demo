@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 213682efa935ffe478f593b5afc0e4ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/Utils/Runtime/Serialization/UnityJsonSerializer.cs
+  uploadId: 641656

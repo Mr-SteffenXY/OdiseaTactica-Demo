@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15876c470d785be4db655fbc77d026ec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209087
+  packageName: ProtoTiles - turn based map creator
+  packageVersion: 1.1.2
+  assetPath: Assets/RedBjorn/ProtoTiles/Examples/Tiles/Water/Hex/WaterHexZY.prefab
+  uploadId: 641656
